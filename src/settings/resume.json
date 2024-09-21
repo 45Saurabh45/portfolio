@@ -1,0 +1,113 @@
+{
+    "basics": {
+        "name": "Saurabh Tiwari",
+        "label": "Software Development Engineer",
+        "email": "10c.saurabhtiwari123@gmail.com",
+        "phone": "+91 9340228113",
+        "picture": "st.png",
+        "x_title": "Hey, I'm",
+        "job": "Backend Developer",
+        "description": "Hey, I'm Saurabh Tiwari, a Software Development Engineer based in Mumbai, India. Proficient in backend technologies, I specialize in creating efficient, scalable solutions with Node.js, MongoDB, and Express.js.",
+        "summary": "Experienced backend developer leveraging Node.js, MongoDB, and Express.js to create scalable solutions. Proficient in JavaScript, TypeScript, CI/CD, Docker, and Terraform.",
+        "keywords": "saurabh,tiwari,software,developer,backend,Node.js,Express.js,MongoDB,JavaScript,TypeScript,CI/CD,Docker,Terraform",
+        "url": "",
+        "location": {
+            "address": "Mumbai",
+            "postalCode": "400708",
+            "city": "Mumbai",
+            "country": "India",
+            "countryCode": "IND",
+            "region": "Maharashtra"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "45saurabh-tiwari",
+                "url": "https://www.linkedin.com/in/45saurabh-tiwari/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "45Saurabh45",
+                "url": "https://github.com/45Saurabh45",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Gmail",
+                "username": "10c.saurabhtiwari123@gmail.com",
+                "url": "mailto:10c.saurabhtiwari123@gmail.com",
+                "x_icon": "fa fa-envelope"
+            },
+            {
+                "network": "Mobile No",
+                "username": "+91 9340228113",
+                "url": "tel:+919340228113", 
+                "x_icon": "fa fa-phone"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Jio Platforms Limited",
+            "position": "Software Development Engineer",
+            "website": "https://www.jio.com",
+            "startDate": "2022-07-01",
+            "summary": "Developed scalable backend architectures, integrated APIs with frontend services, implemented authentication, and resolved technical issues.",
+            "highlights": [
+                "Collaborated with frontend developers to integrate backend services seamlessly.",
+                "Implemented authentication mechanisms such as JWT and OAuth 2.0.",
+                "Created and maintained API documentation."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "B2B Sales Management System",
+            "description": "Developed a sales management system for B2B transactions including inventory management, order processing, and CRM functionalities.",
+            "highlights": [
+                "Implemented RESTful APIs using Node.js and Express.js.",
+                "Handled user authentication, product catalog management, and order tracking."
+            ]
+        },
+        {
+            "name": "Jio Local Distributor (JLD)",
+            "description": "Developed a comprehensive system for local distributors to manage sales and inventory.",
+            "highlights": [
+                "Handled distributor accounts, inventory management, and reporting using Node.js and MongoDB.",
+                "Created a dashboard for distributors to track sales and inventory using React.js."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Gyan Ganga Institute of Technology and Sciences",
+            "area": "Electronics and Communications",
+            "studyType": "B.Tech",
+            "startDate": "2018-08-01",
+            "endDate": "2022-06-01"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Backend Development",
+            "level": "Expert",
+            "keywords": ["Node.js", "Express.js", "JavaScript", "TypeScript", "MongoDB", "Docker", "CI/CD", "Terraform", "python", "Django"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Technology",
+            "keywords": ["Backend Development", "API Design", "DevOps"]
+        }
+    ]
+}
