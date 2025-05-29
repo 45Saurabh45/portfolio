@@ -9,11 +9,11 @@ const useStyles = makeStyles((theme) => ({
         position: "absolute",
         bottom: theme.spacing(6),
         right: theme.spacing(6),
-        height: "2.5rem",
-        width: "2.5rem",
+        height: "3.5rem",
+        width: "3.5rem",
     },
     icon: {
-        fontSize: "1.25rem",
+        fontSize: "2.05rem",
     },
 }));
 

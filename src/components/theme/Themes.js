@@ -24,18 +24,19 @@ export const LightTheme = responsiveFontSizes(
       },
     },
     typography: {
-      fontSize: 16,
-      htmlFontSize: 16,
+      fontSize: 12,
+      htmlFontSize: 11,
       h2: {
         fontWeight: 500,
+        fontFamily: ' Papyrus, fantasy',
       },
       h5: {
         fontWeight: 500,
-        fontFamily: 'Roboto Mono, monospace',
+        fontFamily: ' Papyrus, fantasy',
       },
       body1: {
         fontWeight: 500,
-        fontFamily: 'Roboto Mono, monospace',
+        fontFamily: ' Papyrus, fantasy',
       },
     },
     overrides: {
@@ -116,18 +117,19 @@ export const DarkTheme = responsiveFontSizes(
       },
     },
     typography: {
-      fontSize: 16,
-      htmlFontSize: 16,
+      fontSize: 12,
+      htmlFontSize: 11,
       h2: {
         fontWeight: 500,
+        fontFamily: ' Papyrus, fantasy',
       },
       h5: {
         fontWeight: 500,
-        fontFamily: 'Roboto Mono, monospace',
+        fontFamily: ' Papyrus, fantasy',
       },
       body1: {
         fontWeight: 500,
-        fontFamily: 'Roboto Mono, monospace',
+        fontFamily: ' Papyrus, fantasy',
       },
     },
     overrides: {
