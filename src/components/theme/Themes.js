@@ -128,7 +128,7 @@ export const DarkTheme = responsiveFontSizes(
         fontFamily: ' Papyrus, fantasy',
       },
       body1: {
-        fontWeight: 500,
+        fontWeight: 501,
         fontFamily: ' Papyrus, fantasy',
       },
     },
