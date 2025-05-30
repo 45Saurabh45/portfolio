@@ -8,6 +8,7 @@ import { ThemeToggle } from '../components/theme/ThemeToggle';
 import { FooterText } from '../components/footer/FooterText';
 import { SocialIcons } from '../components/content/SocialIcons';
 import { SpeedDials } from '../components/speedDial/SpeedDial';
+import { SkillsSection } from '../components/skills/skills';
 
 const useStyles = makeStyles(() => ({
   root: {
@@ -26,6 +27,7 @@ export const Home = () => {
         <DisplacementSphere />
         {/* <LogoLink /> */}
         <Content />
+        <SkillsSection />
         <ThemeToggle />
         <Hidden smDown>
           <SocialIcons />

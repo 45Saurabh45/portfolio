@@ -5,7 +5,7 @@ import GetAppIcon from '@material-ui/icons/GetApp'; // Import the download icon
 
 const useStyles = makeStyles((theme) => ({
   footerText: {
-    position: 'absolute',
+    position: 'fixed',
     bottom: theme.spacing(6),
     left: theme.spacing(6),
     display: 'flex',

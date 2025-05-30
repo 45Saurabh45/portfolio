@@ -30,7 +30,7 @@ export const LightTheme = responsiveFontSizes(
         fontWeight: 500,
         fontFamily: ' Papyrus, fantasy',
       },
-      h5: {
+      h4: {
         fontWeight: 500,
         fontFamily: ' Papyrus, fantasy',
       },
@@ -123,7 +123,7 @@ export const DarkTheme = responsiveFontSizes(
         fontWeight: 500,
         fontFamily: ' Papyrus, fantasy',
       },
-      h5: {
+      h4: {
         fontWeight: 500,
         fontFamily: ' Papyrus, fantasy',
       },
